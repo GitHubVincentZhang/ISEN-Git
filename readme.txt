@@ -4,4 +4,7 @@ hello I have added a readme file
 I am in Curtin College
 
 
-I live in Perth
+I live in Pert
+
+hello again 
+goodbye
