@@ -1,7 +1,7 @@
 hello I have added a readme file
 
 
-I am in Curtin College
+I am at Curtin
 
 
 I live in Pert
