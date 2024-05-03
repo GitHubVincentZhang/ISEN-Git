@@ -19,7 +19,6 @@ class WBSPlanner:
         for key, value in wbs.items():
             print('    ' * indent + key)
             self.display_wbs(value, indent + 1)
-
 def main():
     planner = WBSPlanner()
     
